@@ -1,0 +1,13 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal estendido para otimizar o uso do Git.
+
+Link GitHub: https://github.com/
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, 
+utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+
+Link guia de Markdown: https://www.markdownguide.org/basic-syntax/
+O Markdown é um sistema de formatação aberto que torna a escrita e a leitura mais simples.
+Com uma codificação mínima, além de fácil, ele é visualmente mais "limpo" e pode ser convertido facilmente para HTML.
+Basicamente, ele marca alterações nos textos (subtítulos, negrito, itálico etc) apenas com os símbolos do teclado, 
+sem usar teclas de atalho, menus, selecionando o texto e sem aquele visual complexo - para os que não estão acostumados - de HTML.
+
